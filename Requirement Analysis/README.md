@@ -1,1 +1,12 @@
+   - Project Name : Janki Enterprises - Manual Testing
 
+- Understood the website requirements from the client
+- Identified key modules:
+- Authentication (Login)
+- Product Management
+- Billing / Invoice
+- Dashboard
+- Analyzed functional requirements
+- Considered non-functional requirements (Performance, Security, UI)
+- Identified edge cases (invalid input, network issues)
+- Clarified doubts and finalized the requirements
