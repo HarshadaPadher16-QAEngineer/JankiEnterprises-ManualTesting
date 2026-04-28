@@ -36,4 +36,4 @@ Testing Type: Manual Testing
   - Test Report
 
 
-   🔗 - Website URL - 🌐 - [https://jankie-enterprises-demo.vercel.app/]
+   🔗 - Website URL - 🌐- https://jankie-enterprises-demo.vercel.app/
