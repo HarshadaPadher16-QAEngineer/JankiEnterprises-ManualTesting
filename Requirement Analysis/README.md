@@ -1,4 +1,4 @@
-   - Project Name : Janki Enterprises - Manual Testing
+       - Project Name : Janki Enterprises - Manual Testing
 
 - Understood the website requirements from the client
 - Identified key modules:
