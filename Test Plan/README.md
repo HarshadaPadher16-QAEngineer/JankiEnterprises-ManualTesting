@@ -4,17 +4,17 @@
 Testing Type: Manual Testing
 
   - Scope:
-1.Login
-2.Product Module
-3.Billing
-4.Dashboard
+- Login
+- Product Module
+- Billing
+- Dashboard
 
   - Testing Types Covered:
- 1.Functional Testing
- 2.UI Testing
- 3.Validation Testing
- 4.Security Testing
- 5.Performance Testing
+- Functional Testing
+- UI Testing
+- Validation Testing
+- Security Testing
+- Performance Testing
 
   - Test Environment:
 - Browser: Chrome, Mobile Browser
